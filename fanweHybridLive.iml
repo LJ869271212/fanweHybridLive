@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":fanweHybridLive" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":fanweHybridLive" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="Common (experimental) " useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.android/build-cache/45515b24e9452402be34738930c33a64d8aef61a/output/jars/classes.jar;C:/Users/lj/.android/build-cache/448a45682c062484b606153852c82dbc9455ca5b/output/jars/classes.jar;C:/Users/lj/.android/build-cache/dc802992fe141c5563d06a955ecd1dd493b96b01/output/jars/classes.jar;C:/Users/lj/.android/build-cache/4bbebb2ba642413962fd14af972b2c6408159aa2/output/jars/classes.jar;C:/Users/lj/.android/build-cache/4bbebb2ba642413962fd14af972b2c6408159aa2/output/jars/libs/alipaySdk-20160111.jar;C:/Users/lj/.android/build-cache/786b43e2d7efc5394ddd76995462120ab568690d/output/jars/classes.jar;C:/Users/lj/.android/build-cache/786b43e2d7efc5394ddd76995462120ab568690d/output/jars/libs/baofoo.jar;C:/Users/lj/.android/build-cache/39f2284ef99dea1ca45d9784555c1b4130d39a01/output/jars/classes.jar;C:/Users/lj/.android/build-cache/39f2284ef99dea1ca45d9784555c1b4130d39a01/output/jars/libs/UPPayAssistEx.jar;C:/Users/lj/.android/build-cache/39f2284ef99dea1ca45d9784555c1b4130d39a01/output/jars/libs/UPPayPluginEx.jar;C:/Users/lj/.android/build-cache/041bd6303b34f9cf2cf84278181fe1d44539466b/output/jars/classes.jar;C:/Users/lj/.android/build-cache/fe6adf413209279b98fbd912ac9b808251f49987/output/jars/classes.jar;C:/Users/lj/.android/build-cache/fe6adf413209279b98fbd912ac9b808251f49987/output/jars/libs/core-2.2.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/classes.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/open_sdk_r5781.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/SocialSDK_QQ_Full.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/SocialSDK_Sina_Full.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/SocialSDK_WeiXin_Full.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/umeng_shareboard_widget.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/umeng_social_api.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/umeng_social_net.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/umeng_social_shareboard.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/umeng_social_tool.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/wechat-sdk-android-with-mta-1.1.6.jar;C:/Users/lj/.android/build-cache/51db997f47bc2b8c96e397f8266aa395fc09e4cb/output/jars/libs/weiboSDKCore_3.1.4.jar;C:/Users/lj/.android/build-cache/e21aa1c7afc9448217ae49b4c82803cc2194fc64/output/jars/classes.jar;C:/Users/lj/.android/build-cache/bb1ff48238101ada8e4b4aa401f7d4c7ab62d11c/output/jars/classes.jar;C:/Users/lj/.android/build-cache/399605b938ca791d08c55aa2beb0569441dd6a0e/output/jars/classes.jar;C:/Users/lj/.android/build-cache/399605b938ca791d08c55aa2beb0569441dd6a0e/output/jars/libs/alicloud-android-sdk-httpdns-1.0.7.jar;C:/Users/lj/.android/build-cache/399605b938ca791d08c55aa2beb0569441dd6a0e/output/jars/libs/com.umeng.message_3.1.1.jar;C:/Users/lj/.android/build-cache/9a0256635c8d7c26a06ce2df5df02f12113e09cf/output/jars/classes.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/classes.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/bugly_2.4.0_imsdk_release.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/imsdk.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/mobilepb.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/qalsdk.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/soload.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/tls_sdk.jar;C:/Users/lj/.android/build-cache/7bdee04505c7979394c38e8921daa255846302fd/output/jars/libs/wup-1.0.0-SNAPSHOT.jar;C:/Users/lj/.android/build-cache/1db76d41c2f52491e38275251285437a1f25f24e/output/jars/classes.jar;C:/Users/lj/.android/build-cache/1db76d41c2f52491e38275251285437a1f25f24e/output/jars/libs/TencentLocationSDK_v5.0.1_r251203_170116_1729.jar;C:/Users/lj/.android/build-cache/1db76d41c2f52491e38275251285437a1f25f24e/output/jars/libs/TencentMapSDK_Raster_v_1.2.6_160cf1b.jar;C:/Users/lj/.android/build-cache/1db76d41c2f52491e38275251285437a1f25f24e/output/jars/libs/TencentSearch1.1.3.jar;C:/Users/lj/.android/build-cache/7ace880529b0afa0360d91f8b31c538537784956/output/jars/classes.jar;C:/Users/lj/.android/build-cache/bb5cbf79dd56992f7662a1510e24de277f1ea05e/output/jars/classes.jar;C:/Users/lj/.android/build-cache/09b98b8bd55af881305a58d4f4b174cc4eb455de/output/jars/classes.jar;C:/Users/lj/.android/build-cache/af473ea19f648182d47a217058108602a23df708/output/jars/classes.jar;C:/Users/lj/.android/build-cache/f38b8da34a47be535696bfe473f51653c274a16d/output/jars/classes.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar;C:/Users/lj/.android/build-cache/53d7606dc8ea0c2537e3486c857ad7eabac21eef/output/jars/classes.jar;C:/Users/lj/.android/build-cache/53d7606dc8ea0c2537e3486c857ad7eabac21eef/output/jars/libs/ksylive.jar;C:/Users/lj/.android/build-cache/53d7606dc8ea0c2537e3486c857ad7eabac21eef/output/jars/libs/libksyplayer.jar;C:/Users/lj/.android/build-cache/53d7606dc8ea0c2537e3486c857ad7eabac21eef/output/jars/libs/libksystat.jar;C:/Users/lj/.android/build-cache/2caa3a64c15ff4047972040143f64f24c57e86db/output/jars/classes.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/libGame/build/intermediates/bundles/default/classes.jar;C:/Users/lj/.android/build-cache/1163bda48840737029db22a2fec7b492b92241b4/output/jars/classes.jar;C:/Users/lj/.android/build-cache/a5cbb8fb5dd8c29fce147c73992d80e30ddb9937/output/jars/classes.jar;C:/Users/lj/.android/build-cache/a5cbb8fb5dd8c29fce147c73992d80e30ddb9937/output/jars/libs/eventbus-1.6-src-modify.jar;C:/Users/lj/.android/build-cache/a5cbb8fb5dd8c29fce147c73992d80e30ddb9937/output/jars/libs/fastjson-1.1.45.android.jar;C:/Users/lj/.android/build-cache/5e35cb6602819a8991cae17e4edae2749239103a/output/jars/classes.jar;C:/Users/lj/.android/build-cache/87e7b5d2e2a60beccaf00cc0a0efbfa0bf22cbf4/output/jars/classes.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar;C:/Users/lj/.android/build-cache/2d10efa375df1488999cb5f5c2f1e89babdad5ff/output/jars/classes.jar;C:/Users/lj/.android/build-cache/0a87152e9c13265ad4b3ac4c94dea7b0ff4a15b6/output/jars/classes.jar;C:/Users/lj/.android/build-cache/73bf18ce5a2b318abd3efe8333788f657146609f/output/jars/classes.jar;C:/Users/lj/.android/build-cache/8d0a0a0b1a9ba4bb54d8cdb15b266fcca194c311/output/jars/classes.jar;C:/Users/lj/.android/build-cache/26152dc4599320cb8113ef8a97357cc5997befa6/output/jars/classes.jar;C:/Users/lj/.android/build-cache/26152dc4599320cb8113ef8a97357cc5997befa6/output/jars/libs/LiteAVSDK_Professional.jar;C:/Users/lj/.android/build-cache/6437621030ce3c6cda4c3a0980616806d8200c81/output/jars/classes.jar;C:/Users/lj/.android/build-cache/15c9e1e99b29180f7d991717f71460e29b7a6986/output/jars/classes.jar;C:/Users/lj/.android/build-cache/4752f3ad389fbd6b46541c217226dc9474f7bb1f/output/jars/classes.jar;C:/Users/lj/.android/build-cache/b7504dc5122a6a78d23c6e96738b9b5fa2002815/output/jars/classes.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/recordbutton/build/intermediates/bundles/default/classes.jar;C:/Users/lj/.android/build-cache/ad1c3952d4ddcfd412f79e3f16c90db36b1ed6df/output/jars/classes.jar;C:/Users/lj/.android/build-cache/05647d663f78660382aca1f932b3f2d8372fa7d5/output/jars/classes.jar;C:/Users/lj/.android/build-cache/419146736722bb48626c50c540ee6f728743ad19/output/jars/classes.jar;C:/Users/lj/.android/build-cache/62f839cf99875c49bf60407f6df5a810154b6a80/output/jars/classes.jar;C:/Users/lj/.android/build-cache/aff8a952e97a2cfe8aff0e47b147b3cf381082e7/output/jars/classes.jar;C:/Users/lj/.android/build-cache/8d79a80d601e511cc8d97fec0fce11a23df2d616/output/jars/classes.jar;C:/Users/lj/.android/build-cache/f7e08117e3da00a8d208409628d544ea7c7d9f9e/output/jars/classes.jar;C:/Users/lj/.android/build-cache/03f7548a56619d2e7eda1e043aced6a6579fb2bf/output/jars/classes.jar;C:/Users/lj/.android/build-cache/f3dadf374b2b3a6a0d552f409fc900f37c76dee0/output/jars/classes.jar;C:/Users/lj/.android/build-cache/b40d0587bbf808cd468f9bd97037bbcbfab50241/output/jars/classes.jar;C:/Users/lj/.android/build-cache/e1e7e47d205f6ab6f5fbe9d378565cf70a1732b0/output/jars/classes.jar;C:/work/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar;C:/Users/lj/.android/build-cache/18b1e882d4524df69c4eed0e3110ecc98951726e/output/jars/classes.jar;C:/Users/lj/.android/build-cache/fe406f82735c36f437c6a3a1847dcf3636f33bfa/output/jars/classes.jar;C:/Users/lj/.android/build-cache/ccd6751e112b21121d9233370f7ecde20198b76d/output/jars/classes.jar;C:/Users/lj/.android/build-cache/ce55b2e888b36c75f552b01d2cab31c85974f079/output/jars/classes.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.60/51aaa4c2a3dab2054bc1554d29632cc5510bdb4f/kotlin-stdlib-jre7-1.1.60.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/com.squareup.wire/wire-runtime/2.3.0-RC1/30b5f581c479cb70b71adba368dbd2445607e74a/wire-runtime-2.3.0-RC1.jar;C:/Users/lj/.android/build-cache/6447171939893c982bd61b60f93aa15509371497/output/jars/classes.jar;C:/Users/lj/.android/build-cache/1c1a1d34c546f849764554d4038934434afd6e34/output/jars/classes.jar;C:/Users/lj/.android/build-cache/1c1a1d34c546f849764554d4038934434afd6e34/output/jars/libs/BmobSDK_3.6.9-rc2_20190201.jar;C:/Users/lj/.android/build-cache/e5ecce22342d9772038a1eaca386e99603a7df6d/output/jars/classes.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.2/db2277cb0641bd8bd2f491fab555d37345351d6/rxjava-2.2.2.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54/okhttp-3.12.0.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.1.0/5316c3393a9ff5c1b2af43df74463d63fb697a90/okio-2.1.0.jar;C:/Users/lj/.android/build-cache/599494dcbbe7848638a30c1964bcbbe6da5f09de/output/jars/classes.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.50/3811b225f9a22abf4f9d8a6f81adef0ba78a3c5/kotlin-stdlib-jdk7-1.2.50.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.60/391695759d8fc80042c2c11bc19fc6f2787be495/kotlin-stdlib-1.2.60.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.60/d95e6419da840e672342e5d4348f0bdd1d58b84d/kotlin-stdlib-common-1.2.60.jar;C:/Users/lj/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/lj/.android/build-cache/f254b9e77787a54b01659d159614066a184a5355/output/jars/classes.jar;C:/Users/lj/.android/build-cache/ff4898e11e969c3cafc649746c025838f7ab950d/output/jars/classes.jar;C:/Users/lj/.android/build-cache/9d062e04d12a6880019f5f67c6f800cd6acfce7d/output/jars/classes.jar;C:/Users/lj/.android/build-cache/c6d1536e7ceff50354a2902fa213d205f69d4d04/output/jars/classes.jar;C:/Users/lj/.android/build-cache/80a56c4f774bbd3fd2fc96a24d58549bbba45c15/output/jars/classes.jar;C:/Users/lj/.android/build-cache/002e22486b7e3b759df978dc02f138efb5fc4b6b/output/jars/classes.jar;C:/Users/lj/.android/build-cache/4c32e8351efb94c90478b8b7b8153cc42a4a32e8/output/jars/classes.jar;C:/Users/lj/.android/build-cache/ef6054a3e367f40bae49d63ea294279258e7ac39/output/jars/classes.jar;C:/Users/lj/.android/build-cache/b5d24bc5b23e209005dcd35c846b9099c8e57dbb/output/jars/classes.jar;C:/Users/lj/.android/build-cache/76b078cf7c2c6ff29c010968d22a854f04f36687/output/jars/classes.jar;C:/Users/lj/.android/build-cache/f8888a7466aa196a8a0753792aebed5abdf2d5a0/output/jars/classes.jar;C:/Users/lj/.android/build-cache/10265a138e572b0ab6a2445adec1ea8fc27764e2/output/jars/classes.jar;C:/Users/lj/.android/build-cache/f71312c2b75697426589d78d46b6350b42738864/output/jars/classes.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/aliyun-oss-sdk-android-2.0.1.1.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/banksdk2.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/FanweiPlugin_v4.7.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/okhttp-2.6.0.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/OpenInstall_v2.2.2.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/ugcupload.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/upload/cos-xml-android-sdk-1.2.3.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/upload/qcloud-core-1.2.1.1.jar;C:/work/demo/GT-www.fsgtsg.cn-Android/demo_android/fanweHybridLive/libs/upload/xstream-1.4.7.jar;C:/work/Android/sdk/platforms/android-25/android.jar;C:/work/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar" />
+          <option name="moduleName" value="fanweHybridLive_debug" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.2.50/a5309d96fd097320a75947d2e9673a86c948f605/kotlin-android-extensions-1.2.50.jar" />
+            </array>
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/build/intermediates/classes/debug" />
+    <output-test url="file://$MODULE_DIR$/build/intermediates/classes/test/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-safeguard" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/multi-dex" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
+      <excludeFolder url="file://$MODULE_DIR$/build/kotlin" />
+      <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:25.3.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\banksdk2.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jp.wasabeef:recyclerview-animators-2.2.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.castorflex.verticalviewpager:library-19.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\ugcupload.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryIMTencent-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-media-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: LiteAVSDK_Professional_4.2.3425:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.xutils:xutils-3.5.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\OpenInstall_v2.2.2.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:switchbutton-1.0.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: zxing-1.8.4:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:multidex-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryPayBaofoo-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: pickerview-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: it.sephiroth.android.library.easing:library-1.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:blocker-1.0.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryAndroidPercentSupportExtend-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryMapTencent-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryAdapterHttp-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\upload\qcloud-core-1.2.1.1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:gridlayout-1.0.11" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.ksyun.media:libksylive-armv7a-2.2.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:cache-1.0.14" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.fanwe.android:libCore-1.0.69" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.android:flexbox-0.2.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.squareup.okio:okio:2.1.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.reactivex.rxjava2:rxandroid-2.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryPayUnionpay-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-ui-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: TimePickerDialog-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:cardview-v7-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\FanweiPlugin_v4.7.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.yyued:SVGAPlayer-Android-2.1.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.daimajia.swipelayout:library-1.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.60@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\upload\cos-xml-android-sdk-1.2.3.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: librarySpan-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.60@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryPhotoViewMaster-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:recyclerview-v7-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:design-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: it.sephiroth.android.library.imagezoom:library-1.0.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.bumptech.glide:glide:3.7.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-vector-drawable-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\aliyun-oss-sdk-android-2.0.1.1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:select-1.1.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.squareup.okhttp3:okhttp:3.12.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryAndroidPullToRefresh-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-utils-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.zhihu.android:matisse-0.5.0-alpha4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-fragment-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: pl.droidsonroids.gif:android-gif-drawable-1.2.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:dialog-1.0.10" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.makeramen:roundedimageview-2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\upload\xstream-1.4.7.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: me.leolin:ShortcutBadger-1.1.19" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryQrcodeZxing-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: PushSDK-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:viewpager-1.0.18" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.code.gson:gson:2.8.5@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.50@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\work\demo\GT-www.fsgtsg.cn-Android\demo_android\fanweHybridLive\libs\okhttp-2.6.0.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.squareup.wire:wire-runtime:2.3.0-RC1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.reactivestreams:reactive-streams:1.0.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.ctiao:DanmakuFlameMaster-0.5.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.umeng.analytics:analytics:6.1.4@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:animated-vector-drawable-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jp.wasabeef:glide-transformations-2.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.yalantis:ucrop-2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:statelayout-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: barcodescanner-core-1.8.4:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:transition-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.hjq:xxpermissions-5.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: libraryPayAlipay-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cn.bmob.android:bmob-sdk-3.6.9-rc2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.60@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:span-1.0.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.ksyun.media:libksylive-java-2.2.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.scottsu:stateslayout-1.0.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:pulltorefresh-1.0.33" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:player-1.0.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: librarySocialUmeng-release:@aar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.CymChad:BaseRecyclerViewAdapterHelper-2.9.28" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.zj565061763:recorder-1.0.3" level="project" />
+    <orderEntry type="module" module-name="recordbutton" exported="" />
+    <orderEntry type="module" module-name="libGame" exported="" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.http.legacy-android-25" level="project" />
+  </component>
+</module>
